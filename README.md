@@ -1,7 +1,7 @@
 # MapleStory-Coordi-Search-Bot
 MapleStory Coordi Search Bot | 메이플스토리 코디 검색 봇
 
-<img src="https://raw.githubusercontent.com/blueskytn/MapleStory-Coordi-Search-Bot/master/example.PNG?token=AJH4JRRICFEOAOGFRDUP5B27BFKP4"></img>
+<img src="https://github.com/blueskytn/MapleStory-Coordi-Search-Bot/blob/master/example.PNG"></img>
 
 
 추후 소스코드 추가예정

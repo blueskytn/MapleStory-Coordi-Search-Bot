@@ -12,7 +12,6 @@ MapleStory Coordi Search Bot | 메이플스토리 코디 검색 봇
 ```
 pip install request
 pip install beautifulSoup
-pip install urllib3
 pip install unidecode
 pip install bs4
 pip install selenium ( 전적 갱신을 위해 )

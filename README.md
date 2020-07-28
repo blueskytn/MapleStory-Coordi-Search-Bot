@@ -15,4 +15,5 @@ pip install beautifulSoup
 pip install urllib3
 pip install unidecode
 pip install bs4
+pip install selenium ( 전적 갱신을 위해 )
 ```
